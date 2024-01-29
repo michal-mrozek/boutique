@@ -25,7 +25,7 @@ SECRET_KEY = '!-x1#6!z9jdt4f#1@nh9$4a($k=ab650b6^3^@x8#rjm%*v3rm'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-michal-mrozek-boutique-4rt5tqf1ts.us2.codeanyapp.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
