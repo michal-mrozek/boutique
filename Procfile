@@ -1,0 +1,1 @@
+wrn boutique_ado.wsgi:application
