@@ -1,1 +1,1 @@
-wrn boutique_ado.wsgi:application
+web: boutique_ado.wsgi:application
